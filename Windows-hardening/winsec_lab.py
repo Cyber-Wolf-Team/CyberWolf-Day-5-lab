@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 WinSec Lab - Windows Security Hardening & Administration CLI Tool
 A comprehensive CLI tool for Windows security checks and system hardening.
