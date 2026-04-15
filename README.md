@@ -284,7 +284,7 @@ These labs are designed for educational and authorized system administration use
 
 ---
 
-## Credits
+## Info
 
 **Developed by:** Tamilselvan .S  
 **Title:** Cyber Security Researcher  
