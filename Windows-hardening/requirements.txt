@@ -1,0 +1,13 @@
+# WinSec Lab - Windows Security Hardening Tool
+# Organization: Cyber Wolf
+# Websites: www.cyberwolf.py | www.zh5.club
+# Developer: Tamilselvan .S, Cyber Security Researcher
+
+# Python Version Required
+python>=3.6
+
+# Note: This tool uses only Python standard library modules.
+# No external packages are required.
+# 
+# Standard library modules used:
+# - os, sys, subprocess, platform, json, datetime, typing
