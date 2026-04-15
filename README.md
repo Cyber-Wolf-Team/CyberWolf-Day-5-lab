@@ -16,8 +16,8 @@ Welcome to **Day 5** of the Cyber Wolf Internship Program. This lab setup provid
 ## Lab Structure
 
 ```
-LAB/
-├── README.md                    ← You are here
+README.md            ← You are here
+├                 
 │
 ├── Windows-hardening/           # Windows Security Lab
 │   ├── winsec_lab.py           # Main CLI application
